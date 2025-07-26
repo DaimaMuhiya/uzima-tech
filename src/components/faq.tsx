@@ -28,9 +28,7 @@ const faqs = [
 export function FAQ() {
   return (
     <section className="py-20 bg-[#140921] relative overflow-hidden">
-      <div
-        className="absolute inset-0 opacity-40 faq-bg-image"
-      />
+      <div className="absolute inset-0 opacity-40 faq-bg-image" />
 
       <div className="container mx-auto px-4 relative z-10">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-start">
@@ -51,8 +49,8 @@ export function FAQ() {
 
             <p className="text-[#D3C9C1] leading-relaxed">
               Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industry's standard dummy text
-              ever.
+              industry. Lorem Ipsum has been the industry&apos;s standard dummy
+              text ever.
             </p>
           </div>
 

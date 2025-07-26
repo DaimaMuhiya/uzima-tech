@@ -46,8 +46,8 @@ export function Blog() {
 
           <p className="text-[#D3C9C1] mt-6 max-w-2xl">
             Lorem Ipsum is simply dummy text of the printing and typesetting
-            industry. Lorem Ipsum has been the industry's standard dummy text
-            ever.
+            industry. Lorem Ipsum has been the industry&apos;s standard dummy
+            text ever.
           </p>
         </div>
 

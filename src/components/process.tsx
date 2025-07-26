@@ -10,9 +10,7 @@ const steps = [
 export function Process() {
   return (
     <section className="py-20 bg-[#140921] relative overflow-hidden">
-      <div
-        className="absolute inset-0 opacity-30 process-bg-image"
-      />
+      <div className="absolute inset-0 opacity-30 process-bg-image" />
 
       <div className="container mx-auto px-4 relative z-10">
         {/* Header */}
@@ -27,8 +25,8 @@ export function Process() {
 
           <p className="text-[#D3C9C1] max-w-3xl mx-auto mb-12">
             Lorem Ipsum is simply dummy text of the printing and typesetting
-            industry. Lorem Ipsum has been the industry's standard dummy text
-            ever.
+            industry. Lorem Ipsum has been the industry&apos;s standard dummy
+            text ever.
           </p>
 
           {/* Process Flow Illustration */}
