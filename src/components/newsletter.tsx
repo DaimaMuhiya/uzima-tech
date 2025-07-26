@@ -5,12 +5,7 @@ export function Newsletter() {
   return (
     <section className="py-20 bg-[#140921]/95 relative overflow-hidden">
       <div
-        className="absolute inset-0 opacity-30"
-        style={{
-          backgroundImage: `url('/placeholder.svg?height=400&width=1920')`,
-          backgroundSize: "cover",
-          backgroundPosition: "center",
-        }}
+        className="absolute inset-0 opacity-30 newsletter-bg"
       />
 
       <div className="container mx-auto px-4 relative z-10">
