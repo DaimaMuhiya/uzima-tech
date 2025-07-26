@@ -7,7 +7,7 @@ export function ContactHero() {
       {/* Content */}
       <div className="relative z-10 text-center px-4 pt-20">
         <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-white mb-8 tracking-wider capitalize">
-          Let's talk To Us
+          Let&apos;s talk To Us
         </h1>
       </div>
     </section>
