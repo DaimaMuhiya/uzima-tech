@@ -7,12 +7,7 @@ export function Hero() {
       {/* Background */}
       <div className="absolute inset-0 bg-gradient-to-b from-[#140921] via-[#471133] to-[#140921]" />
       <div
-        className="absolute inset-0 opacity-50"
-        style={{
-          backgroundImage: `url('/placeholder.svg?height=800&width=1920')`,
-          backgroundSize: "cover",
-          backgroundPosition: "center",
-        }}
+        className="absolute inset-0 opacity-50 hero-bg-image"
       />
 
       {/* Social Links */}
