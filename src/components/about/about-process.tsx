@@ -32,8 +32,8 @@ export function AboutProcess() {
 
           <p className="text-[#D3C9C1] max-w-3xl mx-auto mb-12">
             Lorem Ipsum is simply dummy text of the printing and typesetting
-            industry. Lorem Ipsum has been the industry's standard dummy text
-            ever.
+            industry. Lorem Ipsum has been the industry&apos;s standard dummy
+            text ever.
           </p>
 
           {/* Process Flow Illustration */}
