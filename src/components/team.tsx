@@ -27,12 +27,7 @@ export function Team() {
   return (
     <section className="py-20 bg-[#140921] relative overflow-hidden">
       <div
-        className="absolute inset-0 opacity-20"
-        style={{
-          backgroundImage: `url('/placeholder.svg?height=800&width=1920')`,
-          backgroundSize: "cover",
-          backgroundPosition: "center",
-        }}
+        className="absolute inset-0 opacity-20 team-bg-image"
       />
 
       <div className="container mx-auto px-4 relative z-10">
